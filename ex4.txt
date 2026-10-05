@@ -1,4 +1,0 @@
-Dimensions de la grille : (63, 32)
-Nombre total de threads lancés : 516096
-Threads hors image : 16096
-Vérification réussie

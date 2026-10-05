@@ -1,1 +1,0 @@
-"# cuda-parallel-programming-fundamentals" 
