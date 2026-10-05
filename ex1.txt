@@ -1,0 +1,16 @@
+Block(1,0) Thread(0,0) -> Global: 8
+Block(1,0) Thread(1,0) -> Global: 9
+Block(1,0) Thread(2,0) -> Global: 10
+Block(1,0) Thread(3,0) -> Global: 11
+Block(1,0) Thread(0,1) -> Global: 12
+Block(1,0) Thread(1,1) -> Global: 13
+Block(1,0) Thread(2,1) -> Global: 14
+Block(1,0) Thread(3,1) -> Global: 15
+Block(0,0) Thread(0,0) -> Global: 0
+Block(0,0) Thread(1,0) -> Global: 1
+Block(0,0) Thread(2,0) -> Global: 2
+Block(0,0) Thread(3,0) -> Global: 3
+Block(0,0) Thread(0,1) -> Global: 4
+Block(0,0) Thread(1,1) -> Global: 5
+Block(0,0) Thread(2,1) -> Global: 6
+Block(0,0) Thread(3,1) -> Global: 7

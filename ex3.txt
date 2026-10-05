@@ -1,0 +1,42 @@
+Taille du bloc : 32
+Nombre de blocs : 31250
+Threads totaux : 1000000
+Threads inutiles : 0
+Temps d'exécution (ms) : 11.845088
+Vérification : OK
+
+Taille du bloc : 64
+Nombre de blocs : 15625
+Threads totaux : 1000000
+Threads inutiles : 0
+Temps d'exécution (ms) : 0.054336
+Vérification : OK
+
+Taille du bloc : 128
+Nombre de blocs : 7813
+Threads totaux : 1000064
+Threads inutiles : 64
+Temps d'exécution (ms) : 0.036672
+Vérification : OK
+
+Taille du bloc : 256
+Nombre de blocs : 3907
+Threads totaux : 1000192
+Threads inutiles : 192
+Temps d'exécution (ms) : 0.037120
+Vérification : OK
+
+Taille du bloc : 512
+Nombre de blocs : 1954
+Threads totaux : 1000448
+Threads inutiles : 448
+Temps d'exécution (ms) : 0.038304
+Vérification : OK
+
+Taille du bloc : 1024
+Nombre de blocs : 977
+Threads totaux : 1000448
+Threads inutiles : 448
+Temps d'exécution (ms) : 0.046848
+Vérification : OK
+
